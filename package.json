@@ -1,0 +1,19 @@
+{
+  "name": "happy-easter",
+  "version": "1.0.0",
+  "description": "cute emojis for you today",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/annr/happy-easter.git"
+  },
+  "author": "Ann Robson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/annr/happy-easter/issues"
+  },
+  "homepage": "https://github.com/annr/happy-easter#readme"
+}
