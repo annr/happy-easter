@@ -1,6 +1,6 @@
 {
   "name": "happy-easter",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "cute emojis for you today",
   "main": "index.js",
   "scripts": {
