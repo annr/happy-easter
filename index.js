@@ -17,3 +17,7 @@ exports.printBeautifulChristianHolidaySymbolsWinterII = function() {
 exports.printBeautifulChristianHolidaySymbolsWinter = function() {
   console.log("🌲🎅🌲🎅🌲🎅🌲🎅🌲🎅🌲🎅🌲🎅🌲🎅🌲🎅🌲🎅🌲🎅🌲🎅🌲");
 }
+
+exports.printBeautifulUSAHolidaySymbols = function() {
+  console.log("🎆🇺🇸🎆🇺)🇸 🎆🇺)🇸 🎆🇺)🇸 🎆🇺)🇸 🎆🇺)🇸 🎆🇺)🇸 🎆🇺)🇸 ");
+}
